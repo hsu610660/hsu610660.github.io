@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+/* 思源黑體 圓體字體 */
+body{
+  margin:0px;
+  font-family: 'cwtexyen', serif !important;
+}
+/* nav start */
+.navbar{
+	border-radius: 0;
+	background-color: white !important;
+	margin-bottom: 0;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: #F853A0 1px solid !important;
+}
+.navbar-brand{
+	font-size: 20px;
+	padding: 20px;
+	color:#F853A0 !important;
+} 
+.navbar-nav li a{
+	font-size: 20px;
+	color:#F853A0 !important;
+	padding: 20px;
+	text-align: center;
+}
+.navbar-nav li a:hover{
+	color:white !important;
+	background-color:#F853A0 !important;
+}
+.navbar-collapse{
+  border: 0px !important;
+}
+.navbar-toggle{
+	background-color:#F853A0 !important;
+	border: 0px !important;
+	width:80px !important;
+	height:35px !important;
+	line-height: 0px;
+}
+/*
+.icon-bar{
+	background-color: #F853A0 !important;
+}
+*/
+.dropdown-menu{
+  background-color: white;
+}
+.dropdown-menu li{
+  margin-top: 10px;
+}
+@media screen and (max-width: 768px) {
+	.navbar-brand{
+		padding: 15px;
+	} 
+}
+/* nav end */
+
+section{
+  padding: 5% 0;
+}
+ul li a{
+  font-size: 20px;
+  line-height: 30px;
+  color:#F853A0 !important;
+}
+
+footer{
+  padding:5%;
+  background-color:white;
+  color:#F853A0;
+  font-size:20px;
+  border-top: 2px solid #F853A0;
+}

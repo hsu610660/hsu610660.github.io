@@ -1,0 +1,26 @@
+.enter_btn1{
+	padding:10px 40px;
+	background-color:#272d44;
+	text-decoration:none !important;
+	border:2px solid #bb9a64;;
+	color:#bb9a64; !important;
+	font-size:20px;
+	border-radius:5px;
+}
+.enter_btn1:hover{
+	background-color:#bb9a64;
+	color:#272d44;
+}
+.enter_btn2{
+	padding:10px 40px;
+	background-color:#FFFAFA;
+	text-decoration:none !important;
+	border:2px solid #F853A0;
+	color:#F853A0; !important;
+	font-size:20px;
+	border-radius:5px;
+}
+.enter_btn2:hover{
+	background-color:#F853A0;
+	color:#FFFAFA;;
+}

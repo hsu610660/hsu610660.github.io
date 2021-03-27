@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+/* 思源黑體 圓體字體 */
+body{
+  background-color: #272d44 !important;
+  color:#bb9a64 !important;
+  margin:0px;
+  font-family: 'cwtexyen', serif !important;
+}
+/* nav start */
+.navbar{
+	border-radius: 0;
+	background-color: #272d44 !important;
+	margin-bottom: 0;
+	border: 0;
+	border-bottom: solid #bb9a64 1px !important;
+}
+.navbar-brand{
+	font-size: 20px;
+	padding: 20px;
+	color:#bb9a64 !important;
+} 
+.navbar-nav li a{
+	font-size: 20px;
+	color:#bb9a64 !important;
+	padding: 20px;
+	text-align: center;
+}
+.navbar-nav li a:hover{
+	color:#272d44 !important;
+	background-color:#bb9a64 !important;
+}
+.navbar-collapse{
+  border: 0px !important;
+}
+.navbar-toggle{
+	background-color:#bb9a64 !important;
+	border: 0px !important;
+	width:80px !important;
+	height:35px !important;
+	line-height: 0px;
+}
+.dropdown-menu{
+  background-color: #272d44;
+}
+.dropdown-menu li{
+  margin-top: 10px;
+}
+@media screen and (max-width: 768px) {
+	.navbar-brand{
+		padding: 15px;
+	} 
+	.box{
+		border:0px !important;
+	}
+}
+/* nav end */
+
+.owl-nav{
+	visibility:hidden
+}
+.owl-prev, .owl-next{
+	width:10px;
+	height:10px;
+	background-color: #ccc !important;
+}
+
+section{
+  padding: 5% 0;
+}
+
+.box{
+	border:5px solid #bb9a64;
+}
+.box:hover{
+	background-color:#bb9a64;
+	color:#272d44;
+}
+
+
+footer{
+  padding: 100px;
+  background-color: #bb9a64;
+  color:#272d44;
+  font-size: 18px;
+  font-weight: 900;
+}
