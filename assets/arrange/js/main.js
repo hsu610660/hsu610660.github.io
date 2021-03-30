@@ -16,15 +16,6 @@ $('.owl-carousel').owlCarousel({
 });
 
 $(window).scroll( function(){
-	$("#about").css({"opacity":0.1,"position":"relative","right":"100px"});
-	$('#about').each( function(i){
-		var bottom_of_window = $(window).scrollTop() + $(window).height();
-		var bottom_of_object = $(this).offset().top + $(this).outerHeight()/2;
-		if( bottom_of_window > bottom_of_object-250 ){
-			$(this).animate({'opacity':'1','left':'0'},1500);
-		}
-	});
-	
 	$("#slideanim").css({"opacity":0.1,"position":"relative","right":"100px"});
 	$('#slideanim').each( function(i){
 		var bottom_of_window = $(window).scrollTop() + $(window).height();
