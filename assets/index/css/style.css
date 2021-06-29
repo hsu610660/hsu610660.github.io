@@ -2,13 +2,13 @@
 	padding:10px 40px;
 	background-color:#272d44;
 	text-decoration:none !important;
-	border:2px solid #bb9a64;;
-	color:#bb9a64; !important;
+	border:2px solid #e8cacc;;
+	color:#e8cacc; !important;
 	font-size:20px;
 	border-radius:5px;
 }
 .enter_btn1:hover{
-	background-color:#bb9a64;
+	background-color:#e8cacc;
 	color:#272d44;
 }
 .enter_btn2{

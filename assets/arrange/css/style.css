@@ -2,7 +2,7 @@
 /* 思源黑體 圓體字體 */
 body{
   background-color: #272d44 !important;
-  color:#f9d6d2 !important;
+  color:#e8cacc !important;
   margin:0px;
   font-family: 'cwtexyen', serif !important;
 }
@@ -12,28 +12,28 @@ body{
 	background-color: #272d44 !important;
 	margin-bottom: 0;
 	border: 0;
-	border-bottom: solid #f9d6d2 1px !important;
+	border-bottom: solid #e8cacc 1px !important;
 }
 .navbar-brand{
 	font-size: 20px;
 	padding: 20px;
-	color:#f9d6d2 !important;
+	color:#e8cacc !important;
 } 
 .navbar-nav li a{
 	font-size: 20px;
-	color:#f9d6d2 !important;
+	color:#e8cacc !important;
 	padding: 20px;
 	text-align: center;
 }
 .navbar-nav li a:hover{
 	color:#272d44 !important;
-	background-color:#f9d6d2 !important;
+	background-color:#e8cacc !important;
 }
 .navbar-collapse{
   border: 0px !important;
 }
 .navbar-toggle{
-	background-color:#f9d6d2 !important;
+	background-color:#e8cacc !important;
 	border: 0px !important;
 	width:80px !important;
 	height:35px !important;
@@ -62,28 +62,28 @@ section{
 }
 
 .box1{
-	background-color:#f9d6d2;
+	background-color:#e8cacc;
 	color:#272d44;
-	border-bottom: 1px solid #f9d6d2;
+	border-bottom: 1px solid #e8cacc;
 }
 .box2{
-	border-top: 1px solid #f9d6d2;
-	border-right: 1px solid #f9d6d2;
-	border-bottom: 1px solid #f9d6d2;
+	border-top: 1px solid #e8cacc;
+	border-right: 1px solid #e8cacc;
+	border-bottom: 1px solid #e8cacc;
 }
 .box3{
-	border-left: 1px solid #f9d6d2;
-	border-bottom: 1px solid #f9d6d2;
+	border-left: 1px solid #e8cacc;
+	border-bottom: 1px solid #e8cacc;
 }
 .box4{
-	background-color:#f9d6d2;
+	background-color:#e8cacc;
 	color:#272d44;
-	border-bottom: 1px solid #f9d6d2;
+	border-bottom: 1px solid #e8cacc;
 }
 
 footer{
   padding: 100px;
-  background-color: #f9d6d2;
+  background-color: #e8cacc;
   color:#272d44;
   font-size: 18px;
   font-weight: 900;
@@ -100,13 +100,13 @@ footer{
 		border: 0px;
 	}
 	.box3{
-		background-color:#f9d6d2;
+		background-color:#e8cacc;
 		color:#272d44;
 		border: 0px;
 	}
 	.box4{
 		background-color:#272d44;
-		color:#f9d6d2;
+		color:#e8cacc;
 		border: 0px;
 	}
 }
