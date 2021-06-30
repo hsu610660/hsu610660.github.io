@@ -1,46 +1,46 @@
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
 /* 思源黑體 圓體字體 */
 body{
-  background-color: #272d44 !important;
-  color:#e8cacc !important;
+  background-color: black !important;
+  color:#ba958c !important;
   margin:0px;
   font-family: 'cwtexyen', serif !important;
 }
 /* nav start */
 .navbar{
 	border-radius: 0;
-	background-color: #272d44 !important;
+	background-color: black !important;
 	margin-bottom: 0;
 	border: 0;
-	border-bottom: solid #e8cacc 1px !important;
+	border-bottom: solid #ba958c 1px !important;
 }
 .navbar-brand{
 	font-size: 20px;
 	padding: 20px;
-	color:#e8cacc !important;
+	color:#ba958c !important;
 } 
 .navbar-nav li a{
 	font-size: 20px;
-	color:#e8cacc !important;
+	color:#ba958c !important;
 	padding: 20px;
 	text-align: center;
 }
 .navbar-nav li a:hover{
-	color:#272d44 !important;
-	background-color:#e8cacc !important;
+	color:black !important;
+	background-color:#ba958c !important;
 }
 .navbar-collapse{
   border: 0px !important;
 }
 .navbar-toggle{
-	background-color:#e8cacc !important;
+	background-color:#ba958c !important;
 	border: 0px !important;
 	width:80px !important;
 	height:35px !important;
 	line-height: 0px;
 }
 .dropdown-menu{
-  background-color: #272d44;
+  background-color: black;
 }
 .dropdown-menu li{
   margin-top: 10px;
@@ -62,29 +62,29 @@ section{
 }
 
 .box1{
-	background-color:#e8cacc;
+	background-color:#ba958c;
 	color:#272d44;
-	border-bottom: 1px solid #e8cacc;
+	border-bottom: 1px solid #ba958c;
 }
 .box2{
-	border-top: 1px solid #e8cacc;
-	border-right: 1px solid #e8cacc;
-	border-bottom: 1px solid #e8cacc;
+	border-top: 1px solid #ba958c;
+	border-right: 1px solid #ba958c;
+	border-bottom: 1px solid #ba958c;
 }
 .box3{
-	border-left: 1px solid #e8cacc;
-	border-bottom: 1px solid #e8cacc;
+	border-left: 1px solid #ba958c;
+	border-bottom: 1px solid #ba958c;
 }
 .box4{
-	background-color:#e8cacc;
+	background-color:#ba958c;
 	color:#272d44;
-	border-bottom: 1px solid #e8cacc;
+	border-bottom: 1px solid #ba958c;
 }
 
 footer{
   padding: 100px;
-  background-color: #e8cacc;
-  color:#272d44;
+  background-color: #ba958c;
+  color:black;
   font-size: 18px;
   font-weight: 900;
 }
@@ -100,13 +100,13 @@ footer{
 		border: 0px;
 	}
 	.box3{
-		background-color:#e8cacc;
-		color:#272d44;
+		background-color:#ba958c;
+		color:black;
 		border: 0px;
 	}
 	.box4{
-		background-color:#272d44;
-		color:#e8cacc;
+		background-color:black;
+		color:#ba958c;
 		border: 0px;
 	}
 }

@@ -1,14 +1,14 @@
 .enter_btn1{
 	padding:10px 40px;
-	background-color:#272d44;
+	background-color:black;
 	text-decoration:none !important;
-	border:2px solid #e8cacc;;
-	color:#e8cacc; !important;
+	border:2px solid #ba958c;;
+	color:#ba958c; !important;
 	font-size:20px;
 	border-radius:5px;
 }
 .enter_btn1:hover{
-	background-color:#e8cacc;
+	background-color:#ba958c;
 	color:#272d44;
 }
 .enter_btn2{
